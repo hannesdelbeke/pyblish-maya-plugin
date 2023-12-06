@@ -1,6 +1,9 @@
 # Pyblish Maya plugin
 
 A Maya plugin wrapper for [pyblish-maya](https://github.com/pyblish/pyblish-maya)  
+> The original `pyblish-maya`, is a Python package, and requires you to run the setup code on every startup.  
+> This plugin runs the setup when enabled, making Pyblish easier to use.  
+> To auto run setup on Maya startup, just set the plugin to auto-load. no more custom inhouse plugin or `usersetup.py`!
 
 ![image](https://github.com/hannesdelbeke/pyblish-maya-plugin/assets/3758308/d95250f5-2c94-4f8f-8015-f3f56ff83546)
 
