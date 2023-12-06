@@ -25,12 +25,14 @@ python -m pip install pyblish-lite, pyblish-maya --target "C:/Users/%username%/D
 (To install for a specific Maya version only, e.g. 2022, replace `Maya/scripts` with `Maya/2022/scripts`)
 
 2. install plugin  
-  - either manually copy the python file in your maya plugi-ins directory, 
+  - manually copy the python file in your maya plugi-ins directory, 
+<!--
   - or install (from repo) without dependencies to `Documents/Maya/plug-ins`
 
 ```
 python -m pip --no-dependencies install https://github.com/hannesdelbeke/pyblish-maya-plugin/archive/refs/heads/main.zip --target "C:/Users/%username%/Documents/Maya/plug-ins"
 ```
+-->
 
 3. Open the plugin manager, and load the plugin.
 4. A new menu should show `Tools`, open the window from here.
