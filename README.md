@@ -2,6 +2,7 @@
 
 A Maya plugin wrapper for [pyblish-maya](https://github.com/pyblish/pyblish-maya)  
 Easily enable and disable Pyblish in Maya
+
 ![image](https://github.com/hannesdelbeke/pyblish-maya-plugin/assets/3758308/d95250f5-2c94-4f8f-8015-f3f56ff83546)
 
 ## Features
@@ -21,6 +22,7 @@ Plugin cleans up menu when disabled
 ### Manual install
 - manually pip install the requirements in the maya scripts folder
 - copy the pyblish-maya-plugin in the plug-ins folder
+- enable the plugin in maya from the menu  `window` > `settings/preferences` > `Plug-in Manager`
  
 <details>
 <summary>Manual install isntructions </summary>
