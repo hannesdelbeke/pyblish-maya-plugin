@@ -6,13 +6,13 @@ A Maya plugin wrapper for [pyblish-maya](https://github.com/pyblish/pyblish-maya
 
 - register `pyblish-lite` as default gui
 - run pyblish-maya setup
-    - add Pyblish to menu `TODO/MENU`
-      > TODO
+    - add Pyblish to menu `File/Publish`
     - register default plugins
 
 ## Install
 ### 1-click install with Plugget
-> TODO
+1. install [plugget for maya](https://github.com/plugget/plugget-qt-maya-plugin)
+2. search and install the `pyblish` plugget package 
 
 ### Manual install
 <details>
@@ -40,5 +40,4 @@ python -m pip --no-dependencies install https://github.com/hannesdelbeke/pyblish
 
 
 ## other
-- plugget package
-> TODO
+- plugget package https://github.com/plugget/plugget-pkgs/tree/main/maya/pyblish
