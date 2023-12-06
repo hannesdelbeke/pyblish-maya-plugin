@@ -48,5 +48,7 @@ python -m pip --no-dependencies install https://github.com/hannesdelbeke/pyblish
 </details>
 
 
+
 ## other
 - plugget package https://github.com/plugget/plugget-pkgs/tree/main/maya/pyblish
+- pyblish forum https://forums.pyblish.com/t/pyblish-maya-plugin/745
