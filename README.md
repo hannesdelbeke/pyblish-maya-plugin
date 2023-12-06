@@ -15,6 +15,9 @@ A Maya plugin wrapper for [pyblish-maya](https://github.com/pyblish/pyblish-maya
 2. search and install the `pyblish` plugget package 
 
 ### Manual install
+- manually pip install the requirements in the maya scripts folder
+- copy the pyblish-maya-plugin in the plug-ins folder
+ 
 <details>
 <summary>Manual install isntructions </summary>
 1. install dependencies to `Documents/Maya/scripts`
