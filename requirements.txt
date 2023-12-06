@@ -1,2 +1,2 @@
-https://github.com/pyblish/pyblish-maya
+pyblish-maya @ git+https://github.com/pyblish/pyblish-maya
 pyblish-lite
