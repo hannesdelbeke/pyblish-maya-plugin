@@ -1,2 +1,2 @@
-pyblish-maya
+https://github.com/pyblish/pyblish-maya
 pyblish-lite
